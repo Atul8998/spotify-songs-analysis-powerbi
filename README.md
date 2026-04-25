@@ -1,3 +1,5 @@
+![Dashboard](PowerBI.png)
+
 # 🎧 Spotify Songs Analysis Dashboard (Power BI)
 
 ## 📌 Overview
